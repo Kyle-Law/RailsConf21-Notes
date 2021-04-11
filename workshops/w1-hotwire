@@ -1,0 +1,20 @@
+# Notes about workshop - Hotwire: HTML over the Wire
+
+### Workshop Details
+##### Description
+Last December, the team behind Basecamp and Hey released Hotwire, a library for managing client side interactions by sending HTML to the client. Hotwire bundles the Stimulus JavaScript library with an expanded Turbo library which makes a wide range of client side interactions possible without writing any custom JavaScript. In this workshop, attendees will see first-hand how powerful the new library is by adding powerful interactions to a basic Rails view.
+
+##### Instructor
+Noel Rappin is an Engineering Manager at Root Insurance. Noel has authored multiple technical books, including "Modern Front End Development For Rails" and "Rails 5 Test Prescriptions". He also hosted the podcast Tech Done Right. Follow Noel on Twitter @noelrap, and online at http://www.noelrappin.com.
+
+##### Links:
+1. http://www.noelrappin.com/: Noel Rappin website
+2. https://github.com/noelrappin/rails_conf_2021_hotwire: Github Repo for the workshop
+
+##### Questions
+- What's Hotwire?
+- Will Hotwire replace JavaScript?
+- How does Hotwire change the JavaScript workflow in ROR?
+- Is Hotwire stable to be used on production code?
+- What're the common use cases of Hotwire?
+- What's the difference between Hotwire and ActionCable?
