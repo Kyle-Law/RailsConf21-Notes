@@ -1,0 +1,13 @@
+# Intro to Test Driven Development: How to Safely Make Changes
+
+### Description
+Even small changes to large codebases can make everything come crashing down. When you make a change to an already working application, how are you to be sure everything is still working correctly? With Test Driven Development!
+
+In this workshop, we will take a dive into the capybara gem to take the role of every user under the sun you can think of, and replicate their behavior. We will first cover vocabulary and create a small full-stack application, and then go into how to incorporate tests, to ensure our application is working the way we intend it to. Stretch goals include covering modularizat
+
+### Author
+Zack Pieper
+Zack has been an instructor at Coding Dojo since 2019, teaching the fundamentals of languages, including Rails, to new faces to programming. When not teaching or coding, Zack can be found eating extra toasty Cheez-Its while playing a new board game, exploring baking, or cracking a code in an escape room.
+
+### Links
+- https://github.com/ZPieper/railsConf2021IntroTDD: Repo
