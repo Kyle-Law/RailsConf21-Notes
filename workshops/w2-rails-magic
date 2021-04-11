@@ -1,0 +1,16 @@
+# Believe in Rails Magic? Unlock the Powers of Rails
+
+### Description
+Poof! Before your eyes is a full-stack exercise tracking application utilizing rails forms. How did it get there? During this workshop, we're going to help you understand Rails magic! This workshop is perfect for Rails beginners who are looking to get a better understanding of the magic happening inside of Rails. We're going to teach how to build a full-stack rails exercise tracking application that allows the user to retrieve information from the database as well as add content to the database. You will also learn about mapping CRUD actions to HTTP verbs to RESTful routes. As well as following developer flow to implement routes, controller methods, and views for RESTful routes. Then, at the end of the workshop, everything will come together, and you will understand some of the amazing magic hidden inside of Rails!
+
+### Instructors
+- Lea Ann Bradford
+
+Lea Ann is a Senior Software Developer for Notch8, a web and mobile development agency based in San Diego and is a graduate of LEARN Academy. She discovered coding as a stay-at-home mom, and jumped head first into the world of Rails development when she decided to re-enter the workforce. She is a life-long learner who loves to share her passion for coding with others, as well as support beginners on their journey into and through the tech world.
+- Matthieu Tripoli
+Matthieu is a developer from RealPage by LeaseLabs, crafting real estate and property management software for multifamily, commercial, and more. Starting with websites when they were table based, Matthieu continued dabbling on/off while pursuing other interests, before returning to code full-time in 2017. After learning Ruby and Rails from Learn Academy, he has continued growing while working with a variety of languages and frameworks, and sharing his knowledge and enthusiasm.
+
+### Links
+- https://github.com/labradford/believe-in-rails-magic: Workshop Repo
+
+
