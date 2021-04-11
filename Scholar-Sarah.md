@@ -6,12 +6,12 @@
 - What's the future in Rails?
 > Also the question I'm trying to answer especially among other rising full stack frameworks. But it's common for a developer to have different tech stack in hand and not putting all eggs in one basket.
 - How do I transition into Rails?
-> mainly Microverse Software Development Program.
+> mainly via Microverse Software Development Program.
 - What's the moment when I felt I got the hang in Rails?
 > Few breakthroughs of my rails journey: Feeling comfortable in building full stack CRUD app in Rails > comfortable with integrating vanilla JS into Rails.
 - How is Ruby on Rails community in Malaysia? It's not that active in Indonesia
 > Kind of similar? Not much opportunities about Ruby on Rails in Malaysia as far as I'm concern. In fact there's only 1 ROR position in my city, Johor Bahru
-- Can Hotwire obsolete JavaScript? Since she's not that familiar in JS.
+- Can Hotwire replace / make JavaScript obsolete? Since she's not that familiar in JS.
 > Probably not..? I'll have a better answer after attending the conference.
 
 ##### Resources for learning ROR
