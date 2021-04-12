@@ -12,7 +12,7 @@ Noel Rappin is an Engineering Manager at Root Insurance. Noel has authored multi
 1. http://www.noelrappin.com/: Noel Rappin website
 2. https://github.com/noelrappin/rails_conf_2021_hotwire: Github Repo for the workshop
 
-<!--
+
 ##### Questions
 - What's Hotwire?
 Turbo + Stimulus. Server side rendering, do thing on the HTML rather than re-render the entire page. That're sort of hierarchy.
@@ -36,7 +36,7 @@ Create a custom html frame call <turbo-frame id="concert_XX" ...>, it captures .
 Problem: Some navigation stays with the frame.
 
 Turbo is capturing the HTML request...
--->
+
 
 Workshops questions:
 Workshop 1:
