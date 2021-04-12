@@ -21,3 +21,10 @@ Alex Panait has been writing production-ready software for more than twenty year
 - What's Kubernetes?
 - What's the differences between deploying rails to docker vs kubernetes?
 - Is it much cost effective to deploy in AWS vs Heroku?
+
+### What is K8 good for?
+- Fast scaling
+- Safe(r) deployments with readiness checks
+- Fast (practically instant) rollbacks
+- Ephemeral infrastructure, no machine drift w/in or b/w environments
+- Splitting parallelizable worklaods
