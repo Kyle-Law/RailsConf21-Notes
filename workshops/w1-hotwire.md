@@ -13,7 +13,7 @@ Noel Rappin is an Engineering Manager at Root Insurance. Noel has authored multi
 2. https://github.com/noelrappin/rails_conf_2021_hotwire: Github Repo for the workshop
 
 Workshops questions:
-##### Workshop 1:
+##### Workshop 1:https://github.com/noelrappin/rails_conf_2021_hotwire/compare/workshop_01
 - It would be great to see some other examples of real websites or Apps where this technology ist useful and makes the most sense...
 > Hey.com
 - How many people these days have JS disabled? Is this something we really need to "worry" about?
