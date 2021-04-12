@@ -12,40 +12,14 @@ Noel Rappin is an Engineering Manager at Root Insurance. Noel has authored multi
 1. http://www.noelrappin.com/: Noel Rappin website
 2. https://github.com/noelrappin/rails_conf_2021_hotwire: Github Repo for the workshop
 
-
-##### Questions
-- What's Hotwire?
-Turbo + Stimulus. Server side rendering, do thing on the HTML rather than re-render the entire page. That're sort of hierarchy.
-
-- Layer of...?
-![image](https://user-images.githubusercontent.com/55923773/114417967-a5b6c700-9be4-11eb-956d-75c20ca34ea1.png)
-
-- Turbo Drive
-> Rebranding of turbolinks, automatically handles navigation in the background (handle links, capture the request, get the response, update DOM iwthout reloading page), much less distracting and flickers. It applies to an entire page. 
-> It doesn't use virtual DOM as React.
-
-- To refresh part of the page:
-> Inline edit
-- Turbo Frames
-> 3 pieces of Turbo. Separate into smaller pieces, and treat is as pieces to be updated.
-
-Branch workshop_01 for the code changes. (concert#create, concert#show, _form & _concert partials.
-
-Create a custom html frame call <turbo-frame id="concert_XX" ...>, it captures ... makes the HTML request, response as full-edit page. Custom HTML tag defined by turbo-frame library.. Webpack here loads @hotwired/turbo-rails library..
-
-Problem: Some navigation stays with the frame.
-
-Turbo is capturing the HTML request...
-
-
 Workshops questions:
-Workshop 1:
+##### Workshop 1:
 - It would be great to see some other examples of real websites or Apps where this technology ist useful and makes the most sense...
 > Hey.com
 - How many people these days have JS disabled? Is this something we really need to "worry" about?
 - Would this technology make sense in an App for queing passengers to board a plane, since they reorganize all the time depending on their seats?
 
-#####Workshop 2: https://github.com/noelrappin/rails_conf_2021_hotwire/compare/workshop_01...workshop_02
+##### Workshop 2: https://github.com/noelrappin/rails_conf_2021_hotwire/compare/workshop_01...workshop_02
 - MattyMC: Am I understanding correctly that when we update the concert, we want to render both the partial and also the list of favourites?
 - phillipspc: so fair to say this situation (updating two sections of the dom) could also be handled by using the "_top" value for a full page refresh. But streams is better because it's more performant/efficient?
 - cassar: If a request fails, will there be a default flash alert message?
