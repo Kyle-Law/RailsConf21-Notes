@@ -1,0 +1,8 @@
+# Write better forms
+
+### Notes
+- Use labels
+- `<%= form_with url: contacts_path do |form| %>` ...
+- `<%= form.submit "Submit %>`
+- Write good semantic HTML that could be picked up by different devices, don't over-design it. Form helpers help it, you don't necessary have to re-invent the wheel.
+- 
